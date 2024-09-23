@@ -1,4 +1,4 @@
-use starknet::{ContractAddress, contract_address_const}
+use starknet::{ContractAddress, contract_address_const};
 
 use snforge_std::{declare, ContractClassTrait, DeclareResultTrait};
 
